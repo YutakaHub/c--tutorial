@@ -1,0 +1,14 @@
+/Users/nisiwaki/Dev/C#/tutorial/bin/Debug/net7.0/tutorial
+/Users/nisiwaki/Dev/C#/tutorial/bin/Debug/net7.0/tutorial.deps.json
+/Users/nisiwaki/Dev/C#/tutorial/bin/Debug/net7.0/tutorial.runtimeconfig.json
+/Users/nisiwaki/Dev/C#/tutorial/bin/Debug/net7.0/tutorial.dll
+/Users/nisiwaki/Dev/C#/tutorial/bin/Debug/net7.0/tutorial.pdb
+/Users/nisiwaki/Dev/C#/tutorial/obj/Debug/net7.0/tutorial.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nisiwaki/Dev/C#/tutorial/obj/Debug/net7.0/tutorial.AssemblyInfoInputs.cache
+/Users/nisiwaki/Dev/C#/tutorial/obj/Debug/net7.0/tutorial.AssemblyInfo.cs
+/Users/nisiwaki/Dev/C#/tutorial/obj/Debug/net7.0/tutorial.csproj.CoreCompileInputs.cache
+/Users/nisiwaki/Dev/C#/tutorial/obj/Debug/net7.0/tutorial.dll
+/Users/nisiwaki/Dev/C#/tutorial/obj/Debug/net7.0/refint/tutorial.dll
+/Users/nisiwaki/Dev/C#/tutorial/obj/Debug/net7.0/tutorial.pdb
+/Users/nisiwaki/Dev/C#/tutorial/obj/Debug/net7.0/tutorial.genruntimeconfig.cache
+/Users/nisiwaki/Dev/C#/tutorial/obj/Debug/net7.0/ref/tutorial.dll
