@@ -1,1 +1,4 @@
-./Debug
+/obj/Debug
+obj/Debug
+./obj/
+obj/Debug/net7.0/tutorial.csproj.CoreCompileInputs.cache
